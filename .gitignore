@@ -1,0 +1,26 @@
+# Compiled executables
+student_system
+cgpa
+
+# Object files
+*.o
+
+# Test output files
+*_test.txt
+
+# Temporary files
+*~
+*.tmp
+
+# Build artifacts
+*.a
+*.so
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
